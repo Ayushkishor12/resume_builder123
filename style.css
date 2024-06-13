@@ -1,0 +1,74 @@
+
+#cv_template {
+    background-color: #f2f2f2;
+    padding: 20px;
+    display: none;
+  }
+  
+  .myimg {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .myself {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .myself p {
+    margin-bottom: 10px;
+  }
+  
+  .background {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .background:hover {
+    background-color: #3e8e41;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-header {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-body ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .card-body li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .card-body li:last-child {
+    border-bottom: none;
+  }
+  
+  .text-centre {
+    text-align: center;
+  }
+  
+  .conatainer {
+    text-align: center;
+  }
